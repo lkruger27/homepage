@@ -66,7 +66,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-padding-10" style="color:#045762">Activity</h2>
         <div class="w3-container">
             <h4 style="color:#4E8D7C"><b>2024</b></h4>
-            <p><b style="color:#8E3E63">[June]&nbsp;&nbsp;</b>Paper accepted at <a href="https://etaps.org/2024/conferences/tacas/" style="color:#4E8D7C;text-decoration:none;">FM</a>: <a href="https://arxiv.org/pdf/2406.19714" style="color:#EA97AD;text-decoration:none;">State Matching and Multiple References in Adaptive Active Automata Learning<a>.</p>
+            <p><b style="color:#8E3E63">[June]&nbsp;&nbsp;</b>Paper accepted at <a href="https://etaps.org/2024/conferences/tacas/" style="color:#4E8D7C;text-decoration:none;">FM</a>: <a href="https://arxiv.org/pdf/2406.19714" style="color:#EA97AD;text-decoration:none;">State Matching and Multiple References in Adaptive Active Automata Learning</a>.</p>
             <p><b style="color:#8E3E63">[May]&nbsp;&nbsp;</b>Paper accepted at <a href="https://etaps.org/2024/conferences/tacas/" style="color:#4E8D7C;text-decoration:none;">LearnAut</a> for presentation: Small Test Suites for Active Automata Learning.</p>
             <p><b style="color:#8E3E63">[April]&nbsp;&nbsp;</b> Gave a talk called 'Small Test Suites for Active Automata Learning' at <a href="https://conf.researchr.org/home/dfdm-2024#:~:text=The%20Dutch%20Formal%20Methods%20Day,together%2C%20learn%2C%20and%20network." style="color:#4E8D7C;text-decoration:none;">Dutch Formal Methods Day</a>.</p>
             <p><b style="color:#8E3E63">[January]&nbsp;&nbsp;</b> Gave a talk called 'Lower Bounds for Active Automata Learning' at  <a href="https://nettcs.cs.ru.nl/" style="color:#4E8D7C;text-decoration:none;">NetTCS</a> at University of Twente.</p>
@@ -74,8 +74,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <hr>
         <div class="w3-container">
             <h4 style="color:#4E8D7C"><b>2023</b></h4>
-          <p><b style="color:#8E3E63">[December]&nbsp;&nbsp;</b>Paper accepted at <a href="https://etaps.org/2024/conferences/tacas/" style="color:#4E8D7C;text-decoration:none;">TACAS</a>: <a href="https://arxiv.org/pdf/2401.12703" style="color:#EA97AD;text-decoration:none;">Small Test Suites for Active Automata Learning<a>.</p>
-          <p><b style="color:#8E3E63">[August]&nbsp;&nbsp;</b> Attended the <a href="https://www.cism.it/en/activities/courses/J2303/" style="color:#4E8D7C;text-decoration:none;">Reactive Synthesis Summer School<a> in Udine, Italy.</p>
+          <p><b style="color:#8E3E63">[December]&nbsp;&nbsp;</b>Paper accepted at <a href="https://etaps.org/2024/conferences/tacas/" style="color:#4E8D7C;text-decoration:none;">TACAS</a>: <a href="https://arxiv.org/pdf/2401.12703" style="color:#EA97AD;text-decoration:none;">Small Test Suites for Active Automata Learning</a>.</p>
+          <p><b style="color:#8E3E63">[August]&nbsp;&nbsp;</b> Attended the <a href="https://www.cism.it/en/activities/courses/J2303/" style="color:#4E8D7C;text-decoration:none;">Reactive Synthesis Summer School</a> in Udine, Italy.</p>
           <p><b style="color:#8E3E63">[June]&nbsp;&nbsp;</b> Gave a lightning talk called 'On Active Automata Learning: Applications and Complexity Results' at the <a href="https://www.sen-symposium.nl/history/2023/program/" style="color:#4E8D7C;text-decoration:none;">SEN symposium</a>.</p>
           <p><b style="color:#8E3E63">[May]&nbsp;&nbsp;</b> Paper accepted at <a href="http://www.fsr.ac.ma/icgi2023/" style="color:#4E8D7C;text-decoration:none;">ICGI</a>: <a href="https://proceedings.mlr.press/v217/kruger23a/kruger23a.pdf" style="color:#EA97AD;text-decoration:none;">Lower Bounds for Active Automata Learning</a>.</p>
           <p><b style="color:#8E3E63">[March]&nbsp;&nbsp;</b> Started my PhD under supervision of Sebastian Junges and Jurriaan Rot.</p>

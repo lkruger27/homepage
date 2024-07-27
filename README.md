@@ -28,7 +28,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p>&nbsp;<i class="fa fa-solid fa-map-pin w3-margin-right large" style="color:#045762">&nbsp;</i>Radboud University</p>
           <p><i class="fa fa-home fa-fw w3-margin-right large" style="color:#045762"></i>Nijmegen, The Netherlands</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large" style="color:#045762"></i>loes.kruger@ru.nl</p>
-          <p>&nbsp;<i class="fa fa-solid fa-book w3-margin-right w3-large" style="color:#045762">&nbsp;</i><a href="https://dblp.org/pid/354/9399.html" style="text-decoration:none;"></a>DBLP</a></p>
+          <p>&nbsp;<i class="fa fa-solid fa-book w3-margin-right w3-large" style="color:#045762">&nbsp;</i><a href="https://dblp.org/pid/354/9399.html" style="text-decoration:none;">DBLP</a></p>
         </div>
       </div><br>
 
@@ -52,13 +52,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-padding-10" style="color:#045762">Publications</h2>
         <div class="w3-container">
             <h4 style="color:#4E8D7C"><b>2024</b></h4>
-            <p>Loes Kruger, Sebastian Junges, and Jurriaan Rot, <a href="https://arxiv.org/pdf/2406.19714" style="color:#EA97AD;text-decoration:none;">State Matching and Multiple References in Adaptive Active Automata Learning<a> (FM 2024).</p>
-            <p>Loes Kruger, Sebastian Junges, and Jurriaan Rot, <a href="https://arxiv.org/pdf/2401.12703" style="color:#EA97AD;text-decoration:none;">Small Test Suites for Active Automata Learning<a> (TACAS 2024).</p>
+            <p>Loes Kruger, Sebastian Junges, and Jurriaan Rot, <a href="https://arxiv.org/pdf/2406.19714" style="color:#EA97AD;text-decoration:none;">State Matching and Multiple References in Adaptive Active Automata Learning</a> (FM 2024).</p>
+            <p>Loes Kruger, Sebastian Junges, and Jurriaan Rot, <a href="https://arxiv.org/pdf/2401.12703" style="color:#EA97AD;text-decoration:none;">Small Test Suites for Active Automata Learning</a> (TACAS 2024).</p>
         </div>
         <hr>
         <div class="w3-container">
             <h4 style="color:#4E8D7C"><b>2023</b></h4>
-          <p>Loes Kruger, Bharat Garhewal, and Frits Vaandrager, <a href="https://proceedings.mlr.press/v217/kruger23a/kruger23a.pdf" style="color:#EA97AD;text-decoration:none;">Lower Bounds for Active Automata Learning</a> (ICGI 2023)..</p>
+          <p>Loes Kruger, Bharat Garhewal, and Frits Vaandrager, <a href="https://proceedings.mlr.press/v217/kruger23a/kruger23a.pdf" style="color:#EA97AD;text-decoration:none;">Lower Bounds for Active Automata Learning</a> (ICGI 2023).</p>
         </div>
       </div>
 
